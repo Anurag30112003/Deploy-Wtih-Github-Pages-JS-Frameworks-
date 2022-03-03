@@ -2,7 +2,7 @@
 
  ## Install Github Pages
     npm install -g ghpages
-    
+
 ## Create a new branch
     git checkout -b gh-pages
 
@@ -10,9 +10,10 @@
     npm run build
 
 ##  Remove the dist folder from .gitignore file
-    cp -R dist/* .
+    dist from .gitignore
 
-### Or Copy the contents of the `dist` folder into the `gh-pages` branch
+## Or Copy the contents of the `dist` folder into the `gh-pages` branch
+    cp -R dist/* .
 
 ## Make sure to make all path to absolute path  
     By adding '.' (dot) in front of the path, it will be converted to absolute path.
