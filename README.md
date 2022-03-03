@@ -30,7 +30,7 @@
 ## Push the branch to the remote
     git push origin gh-pages
 
-## Run the gh-server file
+## Run the gh-pages file
     node ./gh-pages.js
 
 
