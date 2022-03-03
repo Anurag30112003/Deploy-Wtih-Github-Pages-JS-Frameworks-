@@ -1,7 +1,6 @@
-# Deploy in gh-pages
-[]: # Language: shell
- 
- ## Install GithubPages
+# Deploy in Github-pages
+
+ ## Install Github Pages
     npm install -g ghpages
 ## Create a new branch
     git checkout -b gh-pages
