@@ -12,7 +12,7 @@
 ##  Remove the dist folder from .gitignore file
     dist from .gitignore
 
-## Or Copy the contents of the `dist` folder into the `gh-pages` branch
+## Or Copy the contents of the dist folder into the gh-pages branch
     cp -R dist/* .
 
 ## Make sure to make all path to absolute path  
