@@ -1,6 +1,7 @@
 # Deploy in Github-pages
 
- ## Install Github Pages
+
+## Install Github Pages
     npm install -g ghpages
 
 ## Create a new branch
@@ -34,4 +35,4 @@
     node ./gh-pages.js
 
 
-#### Don't forget to add the following your username ,email and gitrepo in the gh-pages.js file.
+#### Don't forget to add the following your username ,email and githubrepo in the gh-pages.js file.
